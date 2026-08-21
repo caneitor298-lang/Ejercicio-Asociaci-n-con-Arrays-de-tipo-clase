@@ -1,1 +1,2 @@
-# Ejercicio-Asociaci-n-con-Arrays-de-tipo-clase
+Jorge Emilio Cano Itzep
+Carne: 261523
